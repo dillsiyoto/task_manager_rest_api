@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+
+env/
+
+db.sqlite3
+*.pot
+*.pyc
+
+**/migrations/
+!*/migrations/__init__.py
+
+.env
+
+
